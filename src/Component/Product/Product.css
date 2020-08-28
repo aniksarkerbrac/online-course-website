@@ -1,0 +1,25 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 75px;
+}
+.Course-Name{
+    color: blue;
+    font-weight: 400;
+}
+.buy{
+    margin-left: 30px;
+    background-color: aliceblue;
+    
+}
+.main-button{
+    background-color: #ADFF2F;
+    width: 150px;
+    height: 40px;
+    border: 1px solid #696969;
+    border-radius: 12px;
+    cursor: pointer;
+}
